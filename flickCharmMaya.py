@@ -24,9 +24,9 @@ import datetime
 # import time
 import bisect
 #import scandir
-import flickcharm
-reload(flickcharm)
-from flickcharm import *
+import flickCharm
+reload(flickCharm)
+from flickCharm import *
 
 try:
     import simplejson as json
